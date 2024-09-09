@@ -1,0 +1,28 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Goodie.tsx": {
+            "scaleInDock": 5.5653,
+            "scaleInEditor": 4.2
+        }
+    },
+    "last.imagePath": "/Users/rdonners/Downloads/Martial Hero 2/Sprites",
+    "map.height": 32,
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "map.width": 32,
+    "openFiles": [
+        "Goodie.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Goodie.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
