@@ -1,0 +1,175 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Assets/Interiors/untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Assets/Apartments.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Boats.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Buses.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Cars.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/City Hall Roof.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/City Hall deets.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Collision.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/ConstrObj.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Construction1.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Dock.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Exterior_Ground.tsx": {
+            "scaleInDock": 0.8706,
+            "scaleInEditor": 1
+        },
+        "Assets/Foodtrucks.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Garden.tsx": {
+            "scaleInDock": 0.6849,
+            "scaleInEditor": 1
+        },
+        "Assets/Gym Cream Line.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Home.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Houses.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Interiors/Floor.tsx": {
+            "scaleInDock": 0.722,
+            "scaleInEditor": 1
+        },
+        "Assets/Interiors/Garden Dets.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Interiors/Objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Interiors/Objs.tsx": {
+            "scaleInDock": 1.0119,
+            "scaleInEditor": 1
+        },
+        "Assets/Interiors/dets leaf.tsx": {
+            "scaleInDock": 0.243,
+            "scaleInEditor": 1
+        },
+        "Assets/Interiors/untitled.tmx": {
+            "scale": 0.28,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1210.7142857142856,
+                "y": 410.71428571428567
+            }
+        },
+        "Assets/Market & Roads.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Playground.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Playground_Copter.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Roads Trees, Lamposts.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Roads2.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Storefronts.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Stores.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Stores_2.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Wrecks.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/clock.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/ground.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/roads.tsx": {
+            "scaleInDock": 1
+        },
+        "Maps/Town_Map.tmx": {
+            "scale": 0.24,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2720.8333333333335,
+                "y": 2720.8333333333335
+            }
+        },
+        "Maps/interaction.tsx": {
+            "scaleInDock": 1
+        },
+        "Pokemon_Style.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "/Users/rdonners/Documents/College/SS_Sem2/FYP/Assets",
+    "last.imagePath": "/Users/rdonners/Documents/College/SS_Sem2/FYP/Exteriors",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "Assets/Interiors/untitled.tmx",
+        "Assets/Interiors/Floor.tsx",
+        "Assets/Interiors/Objs.tsx",
+        "Assets/Exterior_Ground.tsx",
+        "Assets/Garden.tsx",
+        "Assets/Interiors/Garden Dets.tsx",
+        "Assets/Interiors/dets leaf.tsx",
+        "Maps/Town_Map.tmx",
+        "Assets/Interiors/Objects.tsx"
+    ],
+    "project": "House_Proj.tiled-project",
+    "recentFiles": [
+        "Assets/Interiors/Objects.tsx",
+        "Maps/Town_Map.tmx",
+        "Assets/Interiors/dets leaf.tsx",
+        "Assets/Interiors/Garden Dets.tsx",
+        "Assets/Garden.tsx",
+        "Assets/Exterior_Ground.tsx",
+        "Assets/Interiors/Objs.tsx",
+        "Assets/Interiors/Floor.tsx",
+        "Assets/Interiors/untitled.tmx",
+        "Pokemon_Style.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
