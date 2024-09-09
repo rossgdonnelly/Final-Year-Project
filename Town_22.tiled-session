@@ -1,0 +1,247 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Maps/FightMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Assets/Apartments.tsx": {
+            "scaleInDock": 0.5329,
+            "scaleInEditor": 1
+        },
+        "Assets/Boats.tsx": {
+            "scaleInDock": 0.5927
+        },
+        "Assets/Buses.tsx": {
+            "scaleInDock": 0.2813,
+            "scaleInEditor": 1
+        },
+        "Assets/Cars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/City Hall Roof.tsx": {
+            "scaleInDock": 0.5553
+        },
+        "Assets/City Hall deets.tsx": {
+            "scaleInDock": 0.5279
+        },
+        "Assets/Collision.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/ConstrObj.tsx": {
+            "scaleInDock": 0.42
+        },
+        "Assets/Construction1.tsx": {
+            "scaleInDock": 0.42
+        },
+        "Assets/Dock.tsx": {
+            "scaleInDock": 0.42
+        },
+        "Assets/Energy.tsx": {
+            "scaleInDock": 0.3372,
+            "scaleInEditor": 1
+        },
+        "Assets/Exterior_Ground.tsx": {
+            "scaleInDock": 0.42
+        },
+        "Assets/Foodtrucks.tsx": {
+            "scaleInDock": 0.216
+        },
+        "Assets/Garden.tsx": {
+            "scaleInDock": 0.4777
+        },
+        "Assets/Gym Cream Line.tsx": {
+            "scaleInDock": 0.2641
+        },
+        "Assets/Home.tsx": {
+            "scaleInDock": 0.2126
+        },
+        "Assets/Houses.tsx": {
+            "scaleInDock": 0.4597,
+            "scaleInEditor": 1
+        },
+        "Assets/IntAssets/Buses.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Market & Roads.tsx": {
+            "scaleInDock": 0.3342
+        },
+        "Assets/Playground.tsx": {
+            "scaleInDock": 0.3184
+        },
+        "Assets/Playground_Copter.tsx": {
+            "scaleInDock": 0.1988
+        },
+        "Assets/Renewable Energy.tsx": {
+            "scaleInDock": 0.3378,
+            "scaleInEditor": 1
+        },
+        "Assets/Roads Trees, Lamposts.tsx": {
+            "scaleInDock": 0.42
+        },
+        "Assets/Roads2.tsx": {
+            "scaleInDock": 0.2724
+        },
+        "Assets/Storefronts.tsx": {
+            "scaleInDock": 0.5057,
+            "scaleInEditor": 1
+        },
+        "Assets/Stores.tsx": {
+            "scaleInDock": 0.1898
+        },
+        "Assets/Stores_2.tsx": {
+            "scaleInDock": 0.2062,
+            "scaleInEditor": 1
+        },
+        "Assets/Wrecks.tsx": {
+            "scaleInDock": 0.4448,
+            "scaleInEditor": 1
+        },
+        "Assets/clock.tsx": {
+            "scaleInDock": 0.5145
+        },
+        "Assets/ground.tsx": {
+            "scaleInDock": 0.5772
+        },
+        "Assets/roads.tsx": {
+            "scaleInDock": 0.4221
+        },
+        "Assets/roofs.tsx": {
+            "scaleInDock": 0.4201,
+            "scaleInEditor": 1
+        },
+        "Maps/Announcement.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Bakery.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Boat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/BusTeractions.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Car.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Courthouse Doors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/CutTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Dump.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/FightMap.tmx": {
+            "scale": 0.39,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 715.3846153846154,
+                "y": 693.5897435897434
+            }
+        },
+        "Maps/Fountain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/HotDogs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/MyHouse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Other_Houses.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Store.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Tacos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Town_Map.tmx": {
+            "scale": 0.36,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 2713.8888888888887,
+                "y": 2712.5
+            }
+        },
+        "Maps/interaction.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/market.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Pokemon_Style.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2.26
+        }
+    },
+    "last.exportedFilePath": "/Users/rdonners/Documents/College/SS_Sem2/FYP/Maps",
+    "last.externalTilesetPath": "/Users/rdonners/Documents/College/SS_Sem2/FYP/Assets",
+    "last.imagePath": "/Users/rdonners/Documents/College/SS_Sem2/FYP/Modern_Exteriors_RPG_Maker_MV",
+    "map.height": 44,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 86,
+    "openFiles": [
+        "Maps/Bakery.tsx",
+        "Maps/Boat.tsx",
+        "Maps/CutTrees.tsx",
+        "Maps/Dump.tsx",
+        "Maps/HotDogs.tsx",
+        "Maps/Fountain.tsx",
+        "Maps/Tacos.tsx",
+        "Maps/BusTeractions.tsx",
+        "Maps/Town_Map.tmx",
+        "Assets/Renewable Energy.tsx",
+        "Assets/Energy.tsx",
+        "Maps/FightMap.tmx"
+    ],
+    "project": "Town_22.tiled-project",
+    "recentFiles": [
+        "Maps/Bakery.tsx",
+        "Maps/Boat.tsx",
+        "Maps/CutTrees.tsx",
+        "Maps/Dump.tsx",
+        "Maps/HotDogs.tsx",
+        "Maps/Fountain.tsx",
+        "Maps/Tacos.tsx",
+        "Maps/BusTeractions.tsx",
+        "Maps/Town_Map.tmx",
+        "Assets/Renewable Energy.tsx",
+        "Assets/Energy.tsx",
+        "Maps/FightMap.tmx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
